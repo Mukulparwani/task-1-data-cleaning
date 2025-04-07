@@ -21,7 +21,7 @@ Clean and prepare a raw dataset with nulls, duplicates, and inconsistent formats
 - Ensured correct datatypes
 - Saved and exported a cleaned version of the dataset
 
-📄 A full one-page summary is available in [`task1_data_cleaning_summary.pdf`](./task1_data_cleaning_summary.pdf).
+📄 A full one-page summary is available in [`https://www.canva.com/design/DAGj9QJHVEw/wJSFhzd6LNBMytSBhKpCcw/edit?utm_content=DAGj9QJHVEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`](./task1_data_cleaning_summary.pdf).
 
 ---
 
