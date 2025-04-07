@@ -10,18 +10,17 @@ Clean and prepare a raw dataset with nulls, duplicates, and inconsistent formats
 
 #### 🧪 Tools Used:
 - Python (Pandas)
-- Jupyter Notebook / VS Code
-- Anaconda
+- Anaconda / Jupyter Notebook
 
 #### ⚙️ What I Did:
 - Handled missing values (dropped 24 rows with null income)
 - Removed duplicate records
-- Standardized column names and categorical text values
-- Converted `Dt_Customer` to datetime format
-- Ensured correct datatypes
-- Saved and exported a cleaned version of the dataset
+- Standardized column names and text values
+- Converted `Dt_Customer` column to datetime format
+- Verified and corrected data types
+- Exported the cleaned dataset
 
-📄 A full one-page summary is available in [`https://www.canva.com/design/DAGj9QJHVEw/wJSFhzd6LNBMytSBhKpCcw/edit?utm_content=DAGj9QJHVEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`](./task1_data_cleaning_summary.pdf).
+📄 For more details, check [`task1_data_cleaning_summary.pdf`](./task1_data_cleaning_summary.pdf)
 
 ---
 
